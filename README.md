@@ -23,14 +23,14 @@ Este é um projeto para fins educacionais não-lucrativos, com o intuito de ser 
 `Quais ferramentas/tecnologias uso neste projeto?`
 - Pretendo usar JavaScript, mas avali
 
-Qual o intuito?
+`Qual o intuito?`
 - Eu criei este projeto para praticar telas responsivas, SPAs e estilização com BootStrap (versão 4).
 
-Terão atualizações?
+`Terão atualizações?`
 - Sim! Pretendo continuar usando o projeto como modelo para praticar novos conceitos, ferramentas e tecnologias!
 
 `Posso me basear neste projeto?`
 - Neste em especial gostaria que entrasse em contato para mais informações. :)
 
-Como posso contribuir/agradecer caso me baseie neste projeto?
+`Como posso contribuir/agradecer caso me baseie neste projeto?`
 - Deixe uma estrela! Eu ficaria muito feliz em saber que pude te ajudar e, deixando uma estrela é um ótimo jeito hehe <3
