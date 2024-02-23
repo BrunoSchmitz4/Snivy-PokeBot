@@ -1,0 +1,4 @@
+ ~ Resentando movimentos:
+node deploy-commands.js
+ ~ Ativando aplicação:
+node index.js
