@@ -2,8 +2,8 @@
 
 <b>O que é?</b>
 `| PT-BR |` Bem vindo(a/e) ao <b>PokeDiscord</b> bot! Um bot para Discord dedicado à franquia Pokémon. Por meio de comandos em chats de mensagem de servidores de Discord, 
-este bot fornecerá informações para os usuários como, Pokedex (podendo haver filtros), tierlist de meta para as competitivas, wikipedia de itens, berries e pedras evolutivas,
-além de dicas para Shiny Hunt (caça de Pokémons brilhantes), times para competitivas e um guia para Sanduíches (mecânica de Paldea, 9° gen).
+este bot fornecerá para os usuários, pokédex, tierlist de meta para as competitivas, wikipedia de itens, berries e pedras evolutivas,
+além de dicas para Shiny Hunt, guia de criação de times e um guia para sanduíches (mecânica de Paldea, 9° gen).
 Este é um projeto para fins educacionais não-lucrativos, com o intuito de ser um projeto de conclusão do curso de Engenharia de Software (Udesc - SC);
 
 <b>`Abaixo algumas informações importantes:`</b>
