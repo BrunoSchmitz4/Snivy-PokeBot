@@ -1,0 +1,14 @@
+#Mecânica 1 - Game PokeFind
+O que é: um jogo de identificar qual o pokémon misterioso.
+Descrição: usando o slash command /pokefind, o jogador iniciará o game, recebendo três dicas iniciais:
+ - Região do pokémon
+ - Sua(s) tipagem(ns)
+ - Número na Pokédex (National Dex)
+Caso ele errar o nome do pokémon, perderá uma das três tentativas e receberá mais três dicas:
+ - Se o pokémon tem evolução (retorna "Sim/Não")
+ - Se o pokémon é uma evolução (retorna "Sim/Não")
+ - Se ele for uma evolução, qual estágio evolutivo / Se ele não for uma evolução, a primeira letra
+Caso ele errar novamente, ele perderá sua penúltima vida e receberá mais três dicas:
+ - Silhueta do pokémon
+ - Efeito sonoro legado
+ - Efeito sonoro atualizado
