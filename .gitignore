@@ -1,3 +1,5 @@
 /node_modules
 .env
-devGuide
+devGuide.txt
+package-lock.json.gitignore
+package.json
