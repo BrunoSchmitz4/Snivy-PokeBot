@@ -31,7 +31,7 @@ This is a non-monetized project made for educacional purposes, with the aim of b
 - For now, I wanna use JavaScript;
 
 `Qual o intuito? What's the purpose?`
-- Este projeto com criado com o intuito de atender a demanda do público que consome o conteúdo do bot, bem como praticar vertentes de projetos que podem ser alcançadas com tecnologias que uso no dia à dia;
+- Criei este projeto com o intuito de atender a demanda do público que consome o conteúdo do bot, bem como praticar vertentes de projetos que podem ser alcançadas com tecnologias que uso no dia à dia;
 
 `Terão atualizações?`
 - Sim! Pretendo trazer mais ferramentas e correção de bugs à longo prazo;
