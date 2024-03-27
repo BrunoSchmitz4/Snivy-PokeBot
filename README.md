@@ -5,7 +5,7 @@
 este bot fornecerá para os usuários: pokédex, tierlist de meta para as competitivas, wikipedia de itens, berries e pedras evolutivas,
 além de dicas para Shiny Hunt, guia de criação de times e um guia para sanduíches (mecânica de Paldea, 9° gen).
 Este é um projeto para fins educacionais não-lucrativos, com o intuito de ser um projeto de conclusão do curso de Engenharia de Software (Udesc - SC);
-`| ENG |` Welcome to <b>Snivy-PokeBot!</b> A Discord bot dedicated to the Pokemon franchise. Using Discord's slash commands, this bot will  
+`| ENG |` Welcome to <b>Snivy-PokeBot!</b> A Discord bot dedicated to the Pokemon franchise. Using Discord's slash commands, this one will  
 provides to users: pokedex, competitive's meta tierlist, itens wikipedia, berries and evolstones (evolution stones),
 as well shiny hunt tips, team creation guide and a sandwitch guide (Paldea's mechanic, 9° gen).
 This is a non-monetized project made for educacional purposes, with the aim of being a concluding project for the Software Engineering course (Udesc - SC);
