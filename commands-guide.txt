@@ -12,3 +12,20 @@ Caso ele errar novamente, ele perderá sua penúltima vida e receberá mais trê
  - Silhueta do pokémon
  - Efeito sonoro legado
  - Efeito sonoro atualizado
+
+ testes:
+ // import Pokedex from 'pokedex-promise-v2';
+
+// const { SlashCommandBuilder } = require("discord.js")
+
+// const P = new Pokedex();
+
+// module.exports = {
+//     data: new SlashCommandBuilder()
+//         .setName("poketest")
+//         .setDescription("Responde com 'Pong!"),
+
+//     async execute(interaction) {
+//         await interaction.reply(P.getGenerationsList)
+//     }
+// }

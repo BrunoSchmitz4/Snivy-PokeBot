@@ -29,6 +29,6 @@ module.exports = {
         .setDescription("Introduz o bot e seu guia de uso."),
 
     async execute(interaction) {
-        await interaction.reply("")
+        await interaction.reply({ embeds: [exampleEmbed] });
     }
 }
